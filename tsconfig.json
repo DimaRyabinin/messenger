@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "esnext",
+    "moduleResolution": "node",
+    "jsx": "react" // опция для поддержи синтаксиса JSX
+  }
+}
